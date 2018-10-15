@@ -1,0 +1,18 @@
+[
+  {
+    "ParameterKey" : "InstanceType",
+    "ParameterValue" : "t2.micro"
+  },
+  {
+    "ParameterKey" : "KeyName",
+    "ParameterValue" : "CloudFormationTestKey"
+  },
+  {
+    "ParameterKey" : "RDPLocation",
+    "ParameterValue" : "80.76.207.49/32"
+  },
+  {
+    "ParameterKey" : "ImageId",
+    "ParameterValue" : "ami-0b2744e066ace793d"
+  }
+]
